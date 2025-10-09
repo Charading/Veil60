@@ -30,20 +30,6 @@ typedef struct {
     bool raw_pressed;
 } hall_sensor_t;
 
-// Matrix coordinates for hall sensor mapped keys (row, col)
-// These match the positions in keyboard.json / keymap.c
-#define HALL_W_ROW 1
-#define HALL_W_COL 2
-
-#define HALL_A_ROW 2
-#define HALL_A_COL 1
-
-#define HALL_S_ROW 2
-#define HALL_S_COL 2
-
-#define HALL_D_ROW 2
-#define HALL_D_COL 3
-
 // Global flag for ADC printing (controlled by keymap)
 extern bool adc_printing_enabled;
 
