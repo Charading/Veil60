@@ -15,12 +15,12 @@
 
 ### [KLE Layout](https://www.keyboard-layout-editor.com/#/gists/70c935bfc0dd9d3efd5b4094877e21a2)
 <p align="center">
-PCB Back
+PCB Front
 </p>
 
 ![alt text](assets/pcb_front.jpg)
 <p align="center">
-PCB Front
+PCB Back
 </p>
 
 ![alt text](assets/pcb_back.jpg)
